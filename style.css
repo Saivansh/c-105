@@ -1,0 +1,18 @@
+.heading{
+    width:80%;
+    font-size:22px;
+
+}
+.name_of_objects{
+    color:rgb(163, 118, 245)
+}
+
+#camera{
+    border:2px dashed burlywood;
+    width: 351px;
+    height: 352px;
+
+}
+.name_of_objects,#result_object_name{
+    color: crimson;
+}
